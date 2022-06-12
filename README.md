@@ -1,3 +1,7 @@
+Projeto desenvolvido durante Workshop multistack-3 da Treinaweb.
+Este repositório é o front-end da aplicação Adote um Pet desenvolvida.
+A parte do backend estará no repositório Adote um Pet Django.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
